@@ -1,4 +1,4 @@
-FROM sebasguts/gapbinder:20180128
+FROM sebasguts/gapbinder:20180132
 
 MAINTAINER Sebastian Gutsche <sebastian.gutsche@gmail.com>
 
